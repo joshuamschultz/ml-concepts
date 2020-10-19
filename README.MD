@@ -4,7 +4,7 @@ This is a collection of sheets I created to walk myself through basic concepts.
 
 These are written as quick refreshers using both theory and technical write-ups.
 
-Table of Contents
+## Table of Contents
 * Statistics & Probability
   * [Linear Regression](https://github.com/joshuamschultz/ml-concepts/blob/master/Concepts%20-%20Linear%20Regression.ipynb)
   * [Logistic Regression](https://github.com/joshuamschultz/ml-concepts/blob/master/Concepts%20-%20Logistic%20Regression.ipynb)
